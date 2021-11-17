@@ -19,6 +19,13 @@ There is no rush, better to spend more time writing how to run your code than le
 5. Use Git. I mean really use Git, don't send us a repo with one single commit. 
 
 
+## Suggestions
+
+* Use TypeScript is you're applying for a NodeJs position. 
+* Tests are more than welcome.
+* Optionally you can set up some code quality tools.
+
+
 ## HowTo
 
 1. Fork the repo.
@@ -28,18 +35,10 @@ There is no rush, better to spend more time writing how to run your code than le
 
 ## Our values
 
-### :1st_place_medal: Reach for excellence
+* **:1st_place_medal: Reach for excellence**: Our goal is to revolutionize the way real estate agencies work, we are only at the beginning of it, and we need to push hard for it.
 
-We set the bar high, we are ambitious and we shoot for the moon. Month after month, we set for ourselves big hairy goals that we aren't afraid to chase. Hence, we love and need to be surrounded by very talented people who are smart, humble, and never stop learning. Our goal is to revolutionize the way real estate agencies work, we are only at the beginning of it, and we need to push hard for it.
+* **:satisfied: Passion**: We are changing the market, and the way real estate agents work, we have an impact on our customers' productivity and performance and we aim for that.
 
-### :satisfied: Passion
+* **:blue_heart: Thrive together**: We truly believe in collective excellence, which means there is no team better than another, we need everyone to be aligned with our common goal and we work together for the magic to happen.
 
-We are changing the market, and the way real estate agents work, we have an impact on our customers' productivity and performance and we aim for that. We are passionate about what we do to do it at 200%.
-
-### :blue_heart: Thrive together
-
-We care for our customers without whom we would go nowhere, we care for our partners that give even more value to Sweepbright, we care for each other as we won't succeed individually but only as a team. We speak the truth, listen and respect each other. We truly believe in collective excellence, which means there is no team better than another, we need everyone to be aligned with our common goal and we work together for the magic to happen.
-
-### :bulb: Data for efficiency
-
-We are structuring our teams to scale, and hence we question every day our processes and ways of work to get it even more efficient, we never do things because "it's how we do it for years". With growth comes the issue to see things clearly, but we know that measuring our customer usage, our customer experience, and any of our actions, help us to focus our energy on what's matters. We use data and creativity to understand how to grow rapidly while offering the best experience to our customers.
+* **:bulb: Data for efficiency**: We never do things because "it's how we do it for years". With growth comes the issue to see things clearly, but we know that measuring our customer usage, our customer experience, and any of our actions, help us to focus our energy on what's matters. 
