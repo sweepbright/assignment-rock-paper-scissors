@@ -26,7 +26,7 @@ There is no rush, better to spend more time writing how to run your code than le
 
 ## Suggestions
 
-* Use TypeScript is you're applying for a NodeJs position. 
+* Use TypeScript if you're applying for a NodeJs position. 
 * Tests are more than welcome.
 * Optionally you can set up some code quality tools.
 
