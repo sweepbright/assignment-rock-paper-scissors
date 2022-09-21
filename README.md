@@ -33,7 +33,7 @@ There is no rush, better to spend more time writing how to run your code than le
 
 ## HowTo
 
-1. Create a private repo and invite [Sirio Marchi](https://github.com/ohjimijimijimi) to it and give him administration power. 
+1. Create a repo and invite [Sirio Marchi](https://github.com/ohjimijimijimi) to it. 
 2. Code wildly but wisely. 
 3. Send us an [email](mailto:technical+assignment@sweepbright.com?subject=I%20completed%20the%20assignment!&body=Hi%20SweepBright%2C%0D%0A%0D%0AI%20completed%20the%20assignment!%20Now%20it's%20your%20time%20to%20play%20with%20my%20version%20of%20Rock%20Paper%20Scissors.%0D%0AYou%20can%20find%20my%20repo%20at%3A%20%5BLINK_TO_REPO%5D.%0D%0A%0D%0ABest%20regards%2C%0D%0A%5BYOUR_NAME%5D) when it's done.
 
